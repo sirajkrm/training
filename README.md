@@ -1,6 +1,6 @@
 # vagrant-provision-centos-7-with-docker-install
 
-simple vagrant file to create centos 7 machine.
+simple vagrant file to create centos 7 machine with Docker CE installed.
 
 NOTES to consider:
 
